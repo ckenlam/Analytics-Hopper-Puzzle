@@ -1,5 +1,4 @@
 # Hopper_puzzle
-Cracking the Hopper Data Puzzle provided on their career page. 
 
 I stumpled upon this data-puzzle provided by Hopper Inc.
 
